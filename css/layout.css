@@ -360,7 +360,16 @@ ul#nav li.current a { color: #F06000; }
   	-moz-animation: javascript 2s ease;
   	-webkit-animation: javascript 2s ease;
 }
-
+.webdev {
+    width: 90%;
+    -moz-animation: webdev 2s ease;
+    -webkit-animation: webdev 2s ease;
+}
+.machinelearning {
+    width: 80%;
+    -moz-animation: machinelearning 2s ease;
+    -webkit-animation: machinelearning 2s ease;
+}
 @-moz-keyframes java {
   0%   { width: 0px;  }
   100% { width: 85%;  }
